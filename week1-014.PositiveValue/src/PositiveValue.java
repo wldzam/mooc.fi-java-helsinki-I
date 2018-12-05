@@ -1,4 +1,6 @@
 
+import sun.rmi.server.InactiveGroupException;
+
 import java.util.Scanner;
 
 public class PositiveValue {

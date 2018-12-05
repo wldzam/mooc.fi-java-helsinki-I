@@ -9,7 +9,7 @@ public class Password {
 
         // Write your code here
 
-        String theSecretMessage = ("dsljf ldsjf");
+        String theSecretMessage = ("supersecret");
 
         while (true) {
 
