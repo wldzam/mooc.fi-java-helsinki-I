@@ -6,14 +6,13 @@ public class LoopsEndingRemembering {
         // actually this is just one program that is split in many parts
         
         Scanner reader = new Scanner(System.in);
-
         System.out.println("Type numbers:");
+
         int numbers = Integer.parseInt(reader.nextLine());
-        int sum = 0;
-        int counter = 0;
-        int evenCounter = 0;
-        int oddCounter = 0;
+        int sum, counter, evenCounter, oddCounter;
+        sum = counter = evenCounter = oddCounter = 0;
         double average;
+
         while (numbers > 0) {
             sum += numbers;
             counter++;
@@ -25,13 +24,14 @@ public class LoopsEndingRemembering {
             System.out.println(numbers);
             numbers = Integer.parseInt(reader.nextLine());
         }
+
         average = (double)sum/counter;
+
         System.out.println("Thank you and see you later!");
         System.out.println("The sum is " + sum);
         System.out.println("How many numbers: " + counter);
         System.out.println("Average: " + average);
         System.out.println("Even numbers: " + evenCounter);
         System.out.println("Odd numbers: " + oddCounter);
-
     }
 }

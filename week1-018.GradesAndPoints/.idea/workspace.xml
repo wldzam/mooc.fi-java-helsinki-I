@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="959b1517-acc7-4070-95d2-1b8754db0280" name="Default Changelist" comment="" />
+    <list default="true" id="959b1517-acc7-4070-95d2-1b8754db0280" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/production/week1-014.PositiveValue/PositiveValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/week1-014.PositiveValue/PositiveValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-012.SumOfTheAges/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-013.NhlStatisticsPart1/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-014.PositiveValue/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-014.PositiveValue/src/PositiveValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-014.PositiveValue/src/PositiveValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-015.AgeOfMajority/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-016.EvenOrOdd/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-017.GreaterNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-017.GreaterNumber/src/GreaterNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-017.GreaterNumber/src/GreaterNumber.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +52,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-32594526">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GradesAndPoints.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="7" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -65,11 +90,15 @@
     <option name="width" value="1356" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,8 +116,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,10 +165,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="55" y="-7" width="1233" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25831202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -150,7 +176,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3284553" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32724252" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -158,7 +184,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="TMC Test Results" order="10" visible="true" weight="0.3284553" />
+      <window_info anchor="bottom" id="TMC Test Results" order="10" weight="0.32724252" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3284553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -177,8 +203,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GradesAndPoints.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="7" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>

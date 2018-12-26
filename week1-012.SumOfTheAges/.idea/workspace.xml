@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82eb7fa6-50af-4d84-a462-23119c16c0aa" name="Default Changelist" comment="" />
+    <list default="true" id="82eb7fa6-50af-4d84-a462-23119c16c0aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../out/production/week1-009.Divider/Divider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/week1-009.Divider/Divider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-009.Divider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-010.CircleCircumference/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1-011.BiggerNumber/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/../out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,19 +45,31 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-424049330">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SumOfTheAges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="204">
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,16 +79,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="width" value="1910" />
-    <option name="height" value="1080" />
+    <option name="x" value="82" />
+    <option name="y" value="-11" />
+    <option name="width" value="1850" />
+    <option name="height" value="1103" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -139,10 +158,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
-    <editor active="true" />
+    <frame x="55" y="-7" width="1233" height="735" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.256607" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -151,7 +169,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -178,8 +196,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/SumOfTheAges.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="204">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>

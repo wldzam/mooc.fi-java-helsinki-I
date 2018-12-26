@@ -12,7 +12,7 @@ public class GreaterNumber {
             System.out.println("Greater number: " + firstInt);
         } else if (firstInt < secondInt) {
             System.out.println("Greater number: " + secondInt);
-            } else if (firstInt == secondInt) {
+            } else {
             System.out.println("The numbers are equal!");
         }
     }

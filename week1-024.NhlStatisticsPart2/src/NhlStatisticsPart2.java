@@ -36,13 +36,13 @@ public class NhlStatisticsPart2 {
                 NHLStatistics.top(10);
             } else if (command.equals("player")) {
                 // Ask the user first which player's statistics are needed and then print them.
-                System.out.println("Plese tell the player name to print stats: ");
+                System.out.print("Plese tell the player name to print stats: ");
                 String playerNmae = reader.nextLine();
                 NHLStatistics.searchByPlayer(playerNmae);
             } else if (command.equals("club")) {
                 // Ask the user first which club's statistics are needed and then print them.
                 // Note: When printing statistics they should be ordered by points (so the players with the most points come first).
-                System.out.println("Please thell the club's name: ");
+                System.out.print("Please thell the club's name: ");
                 String clubName = reader.nextLine();
                 NHLStatistics.teamStatistics(clubName);
                 NHLStatistics.sortByPoints();
